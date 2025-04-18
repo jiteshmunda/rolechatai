@@ -4,7 +4,7 @@ import { Container, Row, Col, Form, Button, Card, Spinner, Stack, FormLabel } fr
 import axios from 'axios'; 
 
 // Groq API configuration
-const GROQ_API_KEY = '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';
+const GROQ_API_KEY = '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';
 const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions';
 const GROQ_MODEL = 'llama3-70b-8192'; 
 
